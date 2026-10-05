@@ -1,59 +1,44 @@
 <div align="center">
 
-# Hi there, I'm PisumSat 👋
+# Hi, I'm PisumSat 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Biomedical+Engineering+%26+Deep+Learning;ECG+%26+Physiological+Signal+Processing;Computational+Biology+%26+Protein+Modeling;Decentralized+Consensus+%26+PeerDAS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Medicine+%26+Biomedical+Engineering;AI+Enthusiast+%26+Vibe+Coder;Exploring+biosignals+and+ideas;Learning+one+prompt+at+a+time)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/PisumSat"><img src="https://img.shields.io/badge/Focus-Biosignals_%26_Healthcare_AI-blue?style=for-the-badge&logo=medlineplus&logoColor=white" /></a>
-  <a href="https://github.com/PisumSat"><img src="https://img.shields.io/badge/Status-Active_Research_%26_Benchmarking-emerald?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Mode-Vibe_Coding-8B5CF6?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Biomedical_%26_AI-3B82F6?style=flat-square&logo=medlineplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-10B981?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-### 🔬 Research & Technical Domains
+### 🌿 About Me
 
-- 🫀 **Biosignal Intelligence & ECG Analysis:** Developing and fine-tuning neural architectures for multi-lead ECG processing, arrhythmia classification, beat segmentation, and physiological feature extraction.
-- 🧬 **Computational Structural Biology:** Exploring molecular representations, structural biology benchmarks, and protein structure prediction models.
-- 🛡️ **Foundation Models & AI Guardrails:** Evaluating LLM safety, input/output content guardrails, and scientific reasoning pipelines.
-- ⛓️ **Distributed Systems & Consensus:** Tracking Ethereum consensus layer scaling, data availability sampling (PeerDAS / EIP-7594), and cryptoeconomic protocols.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-<div align="center">
-
-| Domain | Technologies & Libraries |
-| :--- | :--- |
-| **Languages & Runtimes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Deep Learning & Signals** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) |
-| **Environment & Tooling** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) |
-
-</div>
+- 🩺 **Background:** Diving into medicine and biomedical engineering, curious about biosignals, physiology, and health tech.
+- 🤖 **Vibe Coding:** Building scripts, prototypes, and side experiments primarily by teaming up with modern AI models.
+- 🧬 **Curiosities:** Biological datasets, protein structures, and finding practical ways tech can assist clinical learning.
+- 🎮 **Off the Screen:** Gaming, music, and finding good coffee while studying.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🧰 Daily Toolkit
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PisumSat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="PisumSat GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisumSat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PisumSat&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-### 📌 Featured Research Repositories (Suggested Pins)
+### 💭 Current Status
 
-- **`ecg-deep-signal`**: Multi-lead ECG arrhythmia classification framework and benchmark comparisons.
-- **`biosignal-dsp`**: Physiological time-series preprocessing, QRS detection, and wavelet feature pipelines.
-- **`peerdas-analysis`**: Empirical network simulations and throughput analysis for EIP-7594 PeerDAS.
-- **`biomed-guardrails`**: Custom safety benchmarks and evaluation suites for clinical and biomedical NLP.
+```text
+🌱 Learning: Exploring biosignal data and building lightweight AI tools
+⚡ Fact: 90% of my code runs on good prompts, coffee, and vibe checks
+🎯 Goal: Share beginner-friendly experiments as I go
